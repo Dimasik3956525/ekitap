@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ekitap/static/css/main.0cfda923.css",
+    "main.js": "/ekitap/static/js/main.233ce531.js",
+    "static/js/787.6f1d7c25.chunk.js": "/ekitap/static/js/787.6f1d7c25.chunk.js",
+    "static/media/Untitled.svg": "/ekitap/static/media/Untitled.fabe4289016d1892eecb0297cc8c8b09.svg",
+    "static/media/logo.svg": "/ekitap/static/media/logo.1a53320dcc85ceee531efd626fe40ec1.svg",
+    "index.html": "/ekitap/index.html",
+    "main.0cfda923.css.map": "/ekitap/static/css/main.0cfda923.css.map",
+    "main.233ce531.js.map": "/ekitap/static/js/main.233ce531.js.map",
+    "787.6f1d7c25.chunk.js.map": "/ekitap/static/js/787.6f1d7c25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cfda923.css",
+    "static/js/main.233ce531.js"
+  ]
+}
