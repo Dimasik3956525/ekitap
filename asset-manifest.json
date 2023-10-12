@@ -1,18 +1,24 @@
 {
   "files": {
-    "main.css": "/ekitap/static/css/main.f130b8a0.css",
-    "main.js": "/ekitap/static/js/main.44c46649.js",
+    "main.css": "/ekitap/static/css/main.0548f664.css",
+    "main.js": "/ekitap/static/js/main.1501d1f3.js",
     "static/js/787.6f1d7c25.chunk.js": "/ekitap/static/js/787.6f1d7c25.chunk.js",
     "static/media/Untitled.svg": "/ekitap/static/media/Untitled.fabe4289016d1892eecb0297cc8c8b09.svg",
     "static/media/logo.svg": "/ekitap/static/media/logo.1a53320dcc85ceee531efd626fe40ec1.svg",
     "static/media/logo1.svg": "/ekitap/static/media/logo1.04457b39790d0afaf3fbe0c9f925cbdb.svg",
+    "static/media/Vector3.svg": "/ekitap/static/media/Vector3.0f195493f81ef9f8b2437f2a5efe2df2.svg",
+    "static/media/Vector2.svg": "/ekitap/static/media/Vector2.66677ecff30e40bb538da5be19845d53.svg",
+    "static/media/password.svg": "/ekitap/static/media/password.9b2b47b7ac37175a7c28.svg",
     "index.html": "/ekitap/index.html",
-    "main.f130b8a0.css.map": "/ekitap/static/css/main.f130b8a0.css.map",
-    "main.44c46649.js.map": "/ekitap/static/js/main.44c46649.js.map",
+    "static/media/login.svg": "/ekitap/static/media/login.9095481a9edc7e3a8413.svg",
+    "static/media/Vector 4.svg": "/ekitap/static/media/Vector 4.70f9d11999d6e91bcad08c1ab55a1d17.svg",
+    "static/media/Vector1.svg": "/ekitap/static/media/Vector1.b0ed895317958d86cb18cfe896c144f6.svg",
+    "main.0548f664.css.map": "/ekitap/static/css/main.0548f664.css.map",
+    "main.1501d1f3.js.map": "/ekitap/static/js/main.1501d1f3.js.map",
     "787.6f1d7c25.chunk.js.map": "/ekitap/static/js/787.6f1d7c25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f130b8a0.css",
-    "static/js/main.44c46649.js"
+    "static/css/main.0548f664.css",
+    "static/js/main.1501d1f3.js"
   ]
 }
