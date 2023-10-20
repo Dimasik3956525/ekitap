@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/ekitap/static/css/main.b870f528.css",
-    "main.js": "/ekitap/static/js/main.ab99ad49.js",
+    "main.css": "/ekitap/static/css/main.d41ffade.css",
+    "main.js": "/ekitap/static/js/main.b4bb6c5d.js",
     "static/js/787.6f1d7c25.chunk.js": "/ekitap/static/js/787.6f1d7c25.chunk.js",
+    "static/media/komp.svg": "/ekitap/static/media/komp.6d3b6fc3d6811524f2ef779c9576f2a4.svg",
     "static/media/mobpk.svg": "/ekitap/static/media/mobpk.6d3b6fc3d6811524f2ef779c9576f2a4.svg",
     "static/media/Untitled.svg": "/ekitap/static/media/Untitled.fabe4289016d1892eecb0297cc8c8b09.svg",
     "static/media/logo.svg": "/ekitap/static/media/logo.1a53320dcc85ceee531efd626fe40ec1.svg",
@@ -19,12 +20,12 @@
     "static/media/Vector 4.svg": "/ekitap/static/media/Vector 4.70f9d11999d6e91bcad08c1ab55a1d17.svg",
     "static/media/Vector1.svg": "/ekitap/static/media/Vector1.b0ed895317958d86cb18cfe896c144f6.svg",
     "static/media/Polygon 1.svg": "/ekitap/static/media/Polygon 1.53c48612083f3add6a70.svg",
-    "main.b870f528.css.map": "/ekitap/static/css/main.b870f528.css.map",
-    "main.ab99ad49.js.map": "/ekitap/static/js/main.ab99ad49.js.map",
+    "main.d41ffade.css.map": "/ekitap/static/css/main.d41ffade.css.map",
+    "main.b4bb6c5d.js.map": "/ekitap/static/js/main.b4bb6c5d.js.map",
     "787.6f1d7c25.chunk.js.map": "/ekitap/static/js/787.6f1d7c25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b870f528.css",
-    "static/js/main.ab99ad49.js"
+    "static/css/main.d41ffade.css",
+    "static/js/main.b4bb6c5d.js"
   ]
 }
