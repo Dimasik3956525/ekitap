@@ -1,11 +1,10 @@
 {
   "files": {
     "main.css": "/ekitap/static/css/main.2b7c3aff.css",
-    "main.js": "/ekitap/static/js/main.0393ae8d.js",
+    "main.js": "/ekitap/static/js/main.2a5926d7.js",
     "static/js/787.6f1d7c25.chunk.js": "/ekitap/static/js/787.6f1d7c25.chunk.js",
     "static/media/komp.svg": "/ekitap/static/media/komp.6d3b6fc3d6811524f2ef779c9576f2a4.svg",
     "static/media/mobpk.svg": "/ekitap/static/media/mobpk.6d3b6fc3d6811524f2ef779c9576f2a4.svg",
-    "static/media/Untitled.svg": "/ekitap/static/media/Untitled.fabe4289016d1892eecb0297cc8c8b09.svg",
     "static/media/logo.svg": "/ekitap/static/media/logo.1a53320dcc85ceee531efd626fe40ec1.svg",
     "static/media/logo1.svg": "/ekitap/static/media/logo1.04457b39790d0afaf3fbe0c9f925cbdb.svg",
     "static/media/Vector3.svg": "/ekitap/static/media/Vector3.0f195493f81ef9f8b2437f2a5efe2df2.svg",
@@ -21,11 +20,11 @@
     "static/media/Vector1.svg": "/ekitap/static/media/Vector1.b0ed895317958d86cb18cfe896c144f6.svg",
     "static/media/Polygon 1.svg": "/ekitap/static/media/Polygon 1.53c48612083f3add6a70.svg",
     "main.2b7c3aff.css.map": "/ekitap/static/css/main.2b7c3aff.css.map",
-    "main.0393ae8d.js.map": "/ekitap/static/js/main.0393ae8d.js.map",
+    "main.2a5926d7.js.map": "/ekitap/static/js/main.2a5926d7.js.map",
     "787.6f1d7c25.chunk.js.map": "/ekitap/static/js/787.6f1d7c25.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b7c3aff.css",
-    "static/js/main.0393ae8d.js"
+    "static/js/main.2a5926d7.js"
   ]
 }
