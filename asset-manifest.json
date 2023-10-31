@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ekitap/static/css/main.5746657f.css",
-    "main.js": "/ekitap/static/js/main.ebaa092a.js",
+    "main.css": "/ekitap/static/css/main.71571699.css",
+    "main.js": "/ekitap/static/js/main.79fd0324.js",
     "static/js/787.6f1d7c25.chunk.js": "/ekitap/static/js/787.6f1d7c25.chunk.js",
     "static/media/komp.svg": "/ekitap/static/media/komp.6d3b6fc3d6811524f2ef779c9576f2a4.svg",
     "static/media/mobpk.svg": "/ekitap/static/media/mobpk.6d3b6fc3d6811524f2ef779c9576f2a4.svg",
@@ -11,20 +11,20 @@
     "static/media/sunblack.svg": "/ekitap/static/media/sunblack.53414c7e2e704d08f684613d3758287f.svg",
     "static/media/sunwithe.svg": "/ekitap/static/media/sunwithe.b369995993e2f50036e7690f88e32bd4.svg",
     "static/media/close.svg": "/ekitap/static/media/close.981e9d9c3440188e06f38c719b11b46a.svg",
-    "static/media/password.svg": "/ekitap/static/media/password.9b2b47b7ac37175a7c28.svg",
+    "static/media/password.svg": "/ekitap/static/media/password.9b2b47b7ac37175a7c28a07167fccf0e.svg",
     "index.html": "/ekitap/index.html",
-    "static/media/login.svg": "/ekitap/static/media/login.9095481a9edc7e3a8413.svg",
+    "static/media/login.svg": "/ekitap/static/media/login.9095481a9edc7e3a8413c5e572dd48c1.svg",
     "static/media/moon.svg": "/ekitap/static/media/moon.7e1979cb77b5d17d31d64dd12fe476c0.svg",
     "static/media/Vector 4.svg": "/ekitap/static/media/Vector 4.70f9d11999d6e91bcad08c1ab55a1d17.svg",
     "static/media/Vector1.svg": "/ekitap/static/media/Vector1.b0ed895317958d86cb18cfe896c144f6.svg",
     "static/media/треугольник.svg": "/ekitap/static/media/треугольник.575f44a2e2f49de298b5.svg",
     "static/media/Polygon 1.svg": "/ekitap/static/media/Polygon 1.53c48612083f3add6a70.svg",
-    "main.5746657f.css.map": "/ekitap/static/css/main.5746657f.css.map",
-    "main.ebaa092a.js.map": "/ekitap/static/js/main.ebaa092a.js.map",
+    "main.71571699.css.map": "/ekitap/static/css/main.71571699.css.map",
+    "main.79fd0324.js.map": "/ekitap/static/js/main.79fd0324.js.map",
     "787.6f1d7c25.chunk.js.map": "/ekitap/static/js/787.6f1d7c25.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5746657f.css",
-    "static/js/main.ebaa092a.js"
+    "static/css/main.71571699.css",
+    "static/js/main.79fd0324.js"
   ]
 }
